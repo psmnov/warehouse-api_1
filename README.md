@@ -15,10 +15,9 @@ PostgreSQL.
 и BPMN — диаграммы построены на основе сущностей и связей из исходной
 схемы БД (см. раздел «Происхождение и история изменений» ниже).
 
-**Диаграмма классов** (`warehouse_supply_class_diagram.html`) — интерактивный
-HTML-файл, откройте его в браузере отдельно (через Markdown в README
-показать его содержимое нельзя — это не картинка, а отдельная веб-страница):
-[warehouse_supply_class_diagram.html](warehouse_supply_class_diagram.html)
+**Диаграмма классов** 
+
+![Database Diagram](scheme.png)
 
 **Диаграмма прецедентов (use case):**
 
